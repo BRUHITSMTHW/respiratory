@@ -1,0 +1,44 @@
+body{
+    max-width:100%;
+    overflow-x:hidden;color:white;text-shadow:0px 0px 4px black;background-image:url(download.jpg);
+    background-attachment:fixed;font-family:Verdana;background-size:100%;
+}
+h1{
+    font-size:75px;text-align:center;background-color:deepskyblue;border-radius:50px;box-shadow:0px 0px 5px 5px black;text-shadow:0px 0px 8px black;
+    width:860px;
+    height:95px;
+}
+h2{
+    font-size:40px;text-align:center;background-color:deepskyblue; border-radius:30px;box-shadow:0px 0px 4px 4px black;text-shadow:0px 0px 8px black;
+}
+p{
+    font-size:25px;text-align:center;background-color:lightskyblue;border-radius:40px;box-shadow:0px 0px 4px 4px black;
+    max-width:800px;
+    padding:20px 20px 20px 20px;
+}
+img{
+    border:solid;border-color:black;box-shadow: 0px 0px 4px 4px black;
+}
+.second-header{
+    font-size:50px;
+    width:280px;border-radius:30px;height:60px;box-shadow:0px 0px 4px 4px black;
+}
+.lungs-header{
+    width:280px;
+}
+.diaphragm-header{
+    width:390px;
+}
+.airways-header{
+    width:300px;
+}
+a{
+    color:white;font-size:30px;text-decoration:none;font-family:Verndana;background-color:deepskyblue;
+    padding:8px 20px 8px 20px;border-radius:30px;height:40px;width:100px;box-shadow:0px 0px 4px 4px black;
+}
+a:hover{
+    background-color:#009DDD
+}
+h3{
+    text-align:center;
+}
